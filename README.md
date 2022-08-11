@@ -23,5 +23,8 @@
  - previous colors were just placeholders, these are the real permanent colors
  - put a dark color to top and bottom
  - but... to do this you can only add classes to the HTML, NO other changes to the HTML allowed (CSS changes of course)
+ 7. Finer details
+ - ensure space at top and bottom of each section is ONLY 100px
+ - do not create any new selectors in the CSS to do this
 
 
