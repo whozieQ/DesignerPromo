@@ -19,5 +19,9 @@
  - top, middle and bottom sections each with their own background color that is full width
  - each section needs 100px of space on the top and bottom
  - top #D7D7D7 middle #FFEAEA bottom #EAF9FF (or your own colors if desired)
+ 6. Background colors... no really, I swear
+ - previous colors were just placeholders, these are the real permanent colors
+ - put a dark color to top and bottom
+ - but... to do this you can only add classes to the HTML, NO other changes to the HTML allowed (CSS changes of course)
 
 

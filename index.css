@@ -14,15 +14,15 @@ body{
 img{
     width: 200px;
     border-radius: 50%;
+    border: 8px solid #fff;
 }
-header{
-    background:#D7D7D7;
+header,
+.bottom-section{
+    background:#252525;
+    color: #fff;
 }
 .mid-section{
     background: #FFEAEA;
-}
-.bottom-section{
-    background: #EAF9FF;
 }
 /* typography */
 h1{
