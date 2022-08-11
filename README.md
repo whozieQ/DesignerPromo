@@ -7,3 +7,6 @@
  - center the text for the entire page
  - add a new div, give it a class, and assign it a width of 570px
  - center that div on the page
+ 2. Setting up typography
+ - add google font and configure it to work
+ - Roboto light and black weights
