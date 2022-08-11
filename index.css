@@ -2,6 +2,7 @@ body{
     margin: 0;
     text-align: center;
     font-family: 'Roboto', sans-serif;
+    font-size: 21px;
 }
 .main{
     width: 570px;
@@ -10,4 +11,21 @@ body{
 img{
     width: 150px;
     border-radius: 50%;
+}
+h1{
+    font-size: 60px;
+    font-weight: 300;
+}
+h2{
+    font-size: 42px;
+    font-weight: 300;
+}
+h3{
+    font-size: 36px;
+    margin-bottom: 0;
+}
+.small-font{
+    font-size: 16px;
+    margin: 0;
+    padding: 5px;
 }
