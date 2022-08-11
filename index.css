@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.main{
+    width: 570px;
+    margin: 0 auto;
+}
+img{
+    width: 150px;
+    border-radius: 50%;
+}
