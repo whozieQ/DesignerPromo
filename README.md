@@ -15,3 +15,9 @@
  4. Fancy it up
  - style the headings so that 'Sophie' and 'graphic designer' and 'article' should be bold and on their own line and a little larger than the rest of their respective headings are
  - style the link #99D930 and hover, focus #131313 and bold
+ 5. Adjust the spacing
+ - top, middle and bottom sections each with their own background color that is full width
+ - each section needs 100px of space on the top and bottom
+ - top #D7D7D7 middle #FFEAEA bottom #EAF9FF (or your own colors if desired)
+
+
