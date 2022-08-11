@@ -6,7 +6,7 @@ body{
     font-size: 21px;
     font-weight: 300;
 }
-.main-boundary{
+.container{
     width: 570px;
     margin: 0 auto;
     padding: 100px 0;
@@ -15,9 +15,8 @@ img{
     width: 200px;
     border-radius: 50%;
 }
-.top-section{
+header{
     background:#D7D7D7;
-    width: 100%;
 }
 .mid-section{
     background: #FFEAEA;
