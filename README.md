@@ -26,5 +26,10 @@
  7. Finer details
  - ensure space at top and bottom of each section is ONLY 100px
  - do not create any new selectors in the CSS to do this
+ 8. Adding buttons
+ - add see my work link in mid section
+ - add see all my articles link in bottom section
+ - style both a normal and hover state that is 'button' like. normal = #99#930 with #252525 text. hover = #252525 with #fff text
+ - don't use width or height to create the size of the 'button' looking links
 
 

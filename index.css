@@ -24,6 +24,20 @@ header,
 .mid-section{
     background: #FFEAEA;
 }
+.btn{
+    margin-top: 25px;
+    background: #99D930;
+    color: #252525;
+    display: inline-block;
+    padding: 20px 30px;
+    text-decoration: none;
+    border: 1px solid #99D930;
+}
+.btn:hover,
+.btn:focus{
+    background: #252525;
+    color: #fff;
+}
 /* typography */
 h1{
     font-size: 60px;
