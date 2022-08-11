@@ -1,7 +1,8 @@
 # DesignerPromo
  Solo Project #5. Scrimba Frontend Dev career path course after completing CSS fundamentals.
 
- Requirements:
+This project was requested to be completed in 10 separate phases, each with specific requirements:
+
  1. Layout basics
  - add the image after the h1
  - center the text for the entire page
