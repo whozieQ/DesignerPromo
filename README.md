@@ -35,5 +35,8 @@
  - fancy up headings with 1px line at top and bottom
  - color #C4C4C4
  - don't change the text spacing as it exists
+ 10. Working with what you have
+ - no access to the HTML, make changes only in the CSS!
+ - change certain items to be green including the name and date on the most recent article
 
 
