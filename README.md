@@ -31,5 +31,9 @@
  - add see all my articles link in bottom section
  - style both a normal and hover state that is 'button' like. normal = #99#930 with #252525 text. hover = #252525 with #fff text
  - don't use width or height to create the size of the 'button' looking links
+ 9. Headings
+ - fancy up headings with 1px line at top and bottom
+ - color #C4C4C4
+ - don't change the text spacing as it exists
 
 
