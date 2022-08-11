@@ -12,3 +12,6 @@
  - Roboto light and black weights
  3. Setting up typography
  - set font sizes and weights for the various text to match the visual design
+ 4. Fancy it up
+ - style the headings so that 'Sophie' and 'graphic designer' and 'article' should be bold and on their own line and a little larger than the rest of their respective headings are
+ - style the link #99D930 and hover, focus #131313 and bold
