@@ -57,7 +57,7 @@ h2{
     border-top: 1px solid #C4C4C4;
     border-bottom: 1px solid #C4C4C4;
     line-height: 1;
-    padding: 1em 0;
+    padding: .5em 0;
 }
 .h1-spotlight,
 .h2-spotlight {
@@ -78,7 +78,7 @@ h3{
 .small-font{
     font-size: 1rem;
     margin: 0;
-    padding: .25em;
+    padding: .3125em;
     font-weight: 300;
 }
 a {
