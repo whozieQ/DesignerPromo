@@ -50,6 +50,7 @@ time{
 }
 
 /* layout */
+/* --------------------- */
 html{
     font-size: .9rem;
 }
@@ -62,22 +63,24 @@ body{
 .container{
     /* max-width: 90%; */
     margin: 0 auto;
-    padding: 5em 0;
-    padding: 0 2em;
+    padding: 5em 2em;
 }
-img{
+header img{
     max-width: 200px;
     border-radius: 50%;
     border: 8px solid #fff;
 }
 header,
-.bottom-section{
+.inverse{
     background:#252525;
     color: #fff;
 }
 
 .mid-section{
-    background: #FFEAEA;
+    background: #fff;
+}
+img{
+    max-width: 80%;
 }
 
 
@@ -101,9 +104,40 @@ header,
     color: #252525;
 }
 
-/* Responsive layout */
-@media  (min-width: 1000px) {
+@media (min-width: 1000px){
+    .mid-section{
+        display: flex;
+        align-items: center;
+    
+    }
+    header{
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+    }
+    .inverse{
+        background-color: #99D930;
+        color: #252525;
+    }
+    .inverse .h2-spotlight,
+    .inverse .name,
+    .inverse time,
+    .inverse a{
+        color: #252525;
+    }
+    .inverse a:hover,
+    .inverse a:focus{
+    color: #fff;
+}
     html{
         font-size: 1.3125rem;
+    }
+    .inverse h2{
+        border-top: 1px solid #252525;
+        border-bottom: 1px solid #252525;
+    }
+    .inverse .btn{
+        background: #252525;
+        color: #fff;
     }
 }
