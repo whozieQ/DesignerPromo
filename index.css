@@ -83,8 +83,6 @@ img{
     max-width: 80%;
 }
 
-
-
 .btn{
     margin-top: 1.25em;
     background: #99D930;
@@ -139,5 +137,22 @@ img{
     .inverse .btn{
         background: #252525;
         color: #fff;
+    }
+    .bottom-section{
+        background:#252525;
+        color: #fff;   
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+    }
+
+    .work{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .work img{
+        height: 15em;
+        width: 100%;
+        object-fit: contain;
     }
 }
